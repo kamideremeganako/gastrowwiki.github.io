@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+.fotter{
+  background-color: #333;
+}
+.card {
+  display: inline-block;
+  background-color: inherit;
+  width: 350px;
+  margin: 20px;
+}
+h5 {
+  font-weight: bold;
+  font-style: italic;
+}
